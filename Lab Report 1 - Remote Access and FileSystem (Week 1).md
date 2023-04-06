@@ -26,19 +26,23 @@ Let's break down how to use ```ssh```:
 * To run this funtionality, you have to have a Linux system. But have no fear! You can use it on any operating system; all you need is to install Git. 
 * Once that is done, all you need to do is to connect to your account through Git.
 
-Here's how you do that:
+Here's how you download Git:
 1. Go to the [Git website][id2] and choose the OS (operating system) you are using.
 2. Download the Git installer and go with the default settings (unless you became a pro at this and know what the advanced settings do).
 
-Now that Git is on your computer, the rest is a piece of cake. This is how you use Git in VSCode:
+After you installed Git on your computer, the rest is a piece of cake. This is how you use Git in VSCode:
 1. Open a new terminal like this:
 >![pic of terminal tab](TerminalOnVSCode.png)
 2. On the top right corner of the terminal, a plus sign with a downward arrow will appear. Press on the arrow, and a dropdown menu will pop up. 
 >![pic of dropdown menu](TerminalDropDown.png)
 3. The last step is to pick Git Bash.
 
-
-
+Now for the second half - connecting your account through Git:
+1. Open up the bash terminal and type in this command:
+```ssh cs15lsp23zz@ieng6.ucsd.edu```
+>This command establishes the connection to your account, which in this case is your CS15L account
+2. If you are connecting to your account from your computer for the first time, you will get a message like this:
+![message of logging in]()
 
 
 
