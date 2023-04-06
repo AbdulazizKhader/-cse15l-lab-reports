@@ -1,2 +1,6 @@
 This is some COOL stuff on GitHub!
-Yes, I like this a lot.
+Yes, I like this a lot.  
+Well then, let's get to the cool stuff:  
+* This is how you make things **BOLD**. Neat!
+* This is how *italic* things work. Fancy, am I right?
+* Also, if you ever wanted to have a line \break, its like this
