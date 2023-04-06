@@ -17,6 +17,7 @@ VSCode is the hub for all Computer Science learners; it is the most versatile ID
 4. Now you have VSCode installed! To start coding, you just have to install the necessary things for your specific language and you are **good to go!**
 
 
+### Remote Connection to your course-specific account:
 
 
 
