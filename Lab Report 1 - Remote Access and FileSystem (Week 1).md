@@ -12,7 +12,7 @@ VSCode is the hub for all Computer Science learners; it is the most versatile ID
 1. Go to this [link][id1]. It will take you to the Visual Studio website.
 2. Once you get there, download the version that is compatible with your operating system. Basically, download Windows if you are on a Windows.
 3. After you install VSCode, you should get sent to a page that looks like this: 
->![VSCode home page]()
+>![VSCode home page](VSCode page.jpg)
 
 
 
