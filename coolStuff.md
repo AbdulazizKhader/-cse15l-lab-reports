@@ -30,3 +30,6 @@ public static void main(String[] args) {
 ### Look at this:  
 ![My pfp!](https://c0.wallpaperflare.com/preview/624/38/376/car-street-road-building.jpg)
 
+To refer back to any of these tips, go to this [cool site][id1]
+
+[id1]: https://commonmark.org/help/tutorial/index.html
