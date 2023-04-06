@@ -30,7 +30,7 @@ Now that Git is on your computer, the rest is a piece of cake. This is how you u
 1. Open a new terminal like this:
 >![pic of terminal tab](TerminalOnVSCode.png)
 2. On the top right corner of the terminal, a plus sign with a downward arrow will appear. Press on the arrow, and a dropdown menu will pop up. 
->![pic of dropdown menu](TerminalDropdown.png)
+>![pic of dropdown menu](TerminalDropDown.png)
 3. The last step is to pick Git Bash.
 
 
