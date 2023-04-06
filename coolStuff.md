@@ -8,6 +8,25 @@ Well then, let's get to the cool stuff:
 Also, if you ever wanted to have a line  
 break, its like this: *double space the previous line then enter*
 
+Say you want to look nerdy, do this:
+```
+public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        while(true){
+            String currentNumber = scanner.nextLine();
+
+            if(currentNumber.equals("end")){
+                break;
+            }
+
+            int number = Integer.valueOf(currentNumber);
+            int cubed = number * number * number;
+            System.out.println(cubed);
+        }
+    }
+```
+
 ### Look at this:  
 ![My pfp!](https://c0.wallpaperflare.com/preview/624/38/376/car-street-road-building.jpg)
 
