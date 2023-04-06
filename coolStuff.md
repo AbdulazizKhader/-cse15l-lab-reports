@@ -1,4 +1,5 @@
-## This is some COOL stuff on GitHub! Yes, I like this a lot. (Notice how these are on the same line)
+## This is some COOL stuff on GitHub! Yes, I like this a lot.  
+(Notice how these are on the same line)
 
 Well then, let's get to the cool stuff:  
 * This is how you make things **BOLD**. Neat!
