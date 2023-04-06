@@ -12,8 +12,9 @@ VSCode is the hub for all Computer Science learners; it is the most versatile ID
 1. Go to this [link][id1]. It will take you to the Visual Studio website.
 2. Once you get there, download the version that is compatible with your operating system. Basically, download Windows if you are on a Windows.
 3. After you install VSCode, you should get sent to a page that looks like this: 
+*Side note: it may look a bit different with the colors and such based on your settings*
 >![VSCode home page](VSCodePage.png)
-
+4. Now you have VSCode installed! To start coding, you just have to install the necessary things for your specific language and you are **good to go!**
 
 
 
