@@ -1,4 +1,4 @@
-## This is some COOL stuff on GitHub! Yes, I like this a lot.  
+# This is some COOL stuff on GitHub! Yes, I like this a lot.  
 (Notice how these are on the same line)
 
 Well then, let's get to the cool stuff:  
@@ -8,6 +8,6 @@ Well then, let's get to the cool stuff:
 Also, if you ever wanted to have a line  
 break, its like this: *double space the previous line then enter*
 
-Look at this:  
+### Look at this:  
 ![My pfp!](https://c0.wallpaperflare.com/preview/624/38/376/car-street-road-building.jpg)
 
