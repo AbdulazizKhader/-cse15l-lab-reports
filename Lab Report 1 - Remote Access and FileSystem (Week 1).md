@@ -18,7 +18,10 @@ VSCode is the hub for all Computer Science learners; it is the most versatile ID
 
 
 ### Remote Connection to your course-specific account:
+This one is a tough one, but it involves doing something you have seen a lot but never knew what it was: ```ssh```. The formal definition is:  
+> SSH, also known as Secure Shell or Secure Socket Shell, is a network protocol that gives users, particularly system administrators, a secure way to access a computer over an unsecured network.
 
+Basically this means that ```ssh``` is a way for you to remotely connect to another account securely. Makes you feel like Elliot from Mr Robot, right? *Good.*
 
 
 
