@@ -27,7 +27,8 @@ To run this funtionality, you have to have a Linux system. But have no fear! You
 2. Download the Git installer and go with the default settings (unless you became a pro at this and know what the advanced settings do).
 
 Now that Git is on your computer, the rest is a piece of cake. This is how you use Git in VSCode:
-1. Open a new terminal like this: ![pic of terminal tab](TerminalOnVSCode.png)
+1. Open a new terminal like this:  
+> ![pic of terminal tab](TerminalOnVSCode.png)
 
 
 
