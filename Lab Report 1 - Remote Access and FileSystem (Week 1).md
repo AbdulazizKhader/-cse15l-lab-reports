@@ -22,7 +22,11 @@ This one is a tough one, but it involves doing something you have seen a lot but
 > SSH, also known as Secure Shell or Secure Socket Shell, is a network protocol that gives users, particularly system administrators, a secure way to access a computer over an unsecured network.
 
 Basically this means that ```ssh``` is a way for you to remotely connect to another account securely. Makes you feel like Elliot from Mr Robot, right? *Good.*  
-To run this funtionality, you have to have a Linux system. But have no fear! You can use it on any operating system; all you need is to install Git. Here's how you do that:
+Let's break down how to use ```ssh```:
+* To run this funtionality, you have to have a Linux system. But have no fear! You can use it on any operating system; all you need is to install Git. 
+* Once that is done, all you need to do is to connect to your account through Git.
+
+Here's how you do that:
 1. Go to the [Git website][id2] and choose the OS (operating system) you are using.
 2. Download the Git installer and go with the default settings (unless you became a pro at this and know what the advanced settings do).
 
