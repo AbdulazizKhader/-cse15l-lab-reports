@@ -60,7 +60,7 @@ Now the fun stuff: *Flip the end vector brackets when writing the command*
 > - cd <path< - “Change Directory” Used to switch the current working directory to the given path  
 
 Here's a sneak peek of what happens when you play with the commands a bit:  
-![commands](Commands.png)
+>![commands](Commands.png)
  
 
 
