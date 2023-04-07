@@ -57,8 +57,8 @@ other folder.*
 >pwd - “Print working directory” Used to display the
 current working directory
 *Here's some terminology:
- - Relative path: A part of a path that doesn't start with the root.
- - Current/working directory: An absolute path to a directory that a program or terminal uses to resolve relative paths. *
+>> - Relative path: A part of a path that doesn't start with the root.
+>> - Current/working directory: An absolute path to a directory that a program or terminal uses to resolve relative paths. *
 >ls <path> - “List” Used to list the files and folders
 the given path
 
