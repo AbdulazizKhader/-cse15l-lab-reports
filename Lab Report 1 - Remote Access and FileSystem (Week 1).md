@@ -54,10 +54,10 @@ Oh, I have some cool commands you might want to try, but first you will need to 
 > - Current/working directory: An absolute path to a directory that a program or terminal uses to resolve relative paths.  
 
 Now the fun stuff: *Flip the end vector brackets when writing the command*
->cat <path1< <path2< ... - Prints the contents of one or more files given by the paths
->ls <path< - “List” Used to list the files and folders in the given path
->pwd - “Print working directory” Used to display the current working directory
->cd <path< - “Change Directory” Used to switch thecurrent working directory to the given path
+>cat <path1< <path2< ... - Prints the contents of one or more files given by the paths  
+>ls <path< - “List” Used to list the files and folders in the given path  
+>pwd - “Print working directory” Used to display the current working directory  
+>cd <path< - “Change Directory” Used to switch thecurrent working directory to the given path  
  
 
 
