@@ -49,19 +49,15 @@ Now for the second half - connecting your account through Git:
 >![image of welcome page](WelcomePageForSSH.png)
 
 Once this page pops up, you can run different commands on your remotely connected account. Have fun!
-Oh, I have some cool commands you might want to try:
->> Here's some terminology you might need to understand some of the commands:
->> - Relative path: A part of a path that doesn't start with the root.
->> - Current/working directory: An absolute path to a directory that a program or terminal uses to resolve relative paths.
+Oh, I have some cool commands you might want to try, but first you will need to know some terminology:
+> - Relative path: A part of a path that doesn't start with the root.
+> - Current/working directory: An absolute path to a directory that a program or terminal uses to resolve relative paths.  
+
+Now the fun stuff:
+>cat <path1> <path2> ... Prints the contents of one or more files given by the paths
+>
  
->ls <path> - “List” Used to list the files and folders
-the given path
->cd <path> - “Change Directory” Used to switch the
-current working directory to the given path  
-*FYI, a root folder/directory: a folder that isn't contained in any
-other folder.* 
->pwd - “Print working directory” Used to display the
-current working directory
+ 
 
 
 
