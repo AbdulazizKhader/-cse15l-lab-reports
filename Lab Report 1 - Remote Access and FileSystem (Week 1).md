@@ -45,7 +45,8 @@ Now for the second half - connecting your account through Git:
 >![message of logging in](MessageFromFirstLogin.png)  
 >This just says that this is your first time logging in remotely to this account. Do you trust it?  
 >For more info on the security of the login, check this [link][id3]
-
+3. Once you input your password, you are done! You will see a page like this:
+>![image of welcome page](WelcomePageForSSH.png)
 
 
 
