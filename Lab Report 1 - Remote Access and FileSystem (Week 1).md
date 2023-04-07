@@ -41,9 +41,9 @@ Now for the second half - connecting your account through Git:
 1. Open up the bash terminal and type in this command:
 ```ssh cs15lsp23zz@ieng6.ucsd.edu```
 >This command establishes the connection to your account, which in this case is your CS15L account
-2. If you are connecting to your account from your computer for the first time, you will get a message like this:
+2. If you are connecting to your account from your computer for the first time, you will get a message like this:  
 >![message of logging in](MessageFromFirstLogin.png)
->This just says that this is your first time logging in remotely to this account. Do you trust it?
+>This just says that this is your first time logging in remotely to this account. Do you trust it?  
 >For more info on the security of the login, check this [link][id3]
 
 
