@@ -49,6 +49,8 @@ Now for the second half - connecting your account through Git:
 >![image of welcome page](WelcomePageForSSH.png)
 
 Once this page pops up, you can run different commands on your remotely connected account. Have fun!
+
+## Commands to try
 Oh, I have some cool commands you might want to try, but first you will need to know some terminology:
 > - Relative path: A part of a path that doesn't start with the root.
 > - Current/working directory: An absolute path to a directory that a program or terminal uses to resolve relative paths.  
