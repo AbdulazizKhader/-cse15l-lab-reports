@@ -48,6 +48,12 @@ Now for the second half - connecting your account through Git:
 3. Once you input your password, you are done! You will see a page like this:
 >![image of welcome page](WelcomePageForSSH.png)
 
+Once this page pops up, you can run different commands on your remotely connected account. Have fun!
+Oh, I have some cool commands you might want to try:
+>cd <path> - “Change Directory” Used to switch the
+current working directory to the given path *FYI Root folder/directory: The folder that isn't contained in any
+other folder.* 
+>
 
 
 
