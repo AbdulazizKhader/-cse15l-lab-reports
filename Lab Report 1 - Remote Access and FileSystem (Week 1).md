@@ -43,6 +43,8 @@ Now for the second half - connecting your account through Git:
 >This command establishes the connection to your account, which in this case is your CS15L account
 2. If you are connecting to your account from your computer for the first time, you will get a message like this:
 >![message of logging in](MessageFromFirstLogin.png)
+>This just says that this is your first time logging in remotely to this account. Do you trust it?
+>For more info on the security of the login, check this [link][id3]
 
 
 
@@ -50,3 +52,4 @@ Now for the second half - connecting your account through Git:
 
 [id1]:https://code.visualstudio.com/
 [id2]:https://git-scm.com/downloads
+[id3]:https://superuser.com/questions/421074/ssh-the-authenticity-of-host-host-cant-be-established/421084#421084
