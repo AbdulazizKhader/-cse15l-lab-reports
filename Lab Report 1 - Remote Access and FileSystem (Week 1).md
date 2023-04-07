@@ -42,7 +42,7 @@ Now for the second half - connecting your account through Git:
 ```ssh cs15lsp23zz@ieng6.ucsd.edu```
 >This command establishes the connection to your account, which in this case is your CS15L account
 2. If you are connecting to your account from your computer for the first time, you will get a message like this:
-![message of logging in]()
+![message of logging in](MessageFromFirstLogin.png)
 
 
 
