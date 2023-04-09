@@ -62,7 +62,9 @@ Now the fun stuff: *Flip the end vector brackets when writing the command*
 > - cd <path< - “Change Directory” Used to switch the current working directory to the given path  
 
 Here's a sneak peek of what happens when you play with the commands a bit:  
->![commands](Commands.png)   
+>![commands](Commands.png) 
+
+ 
 One last thing: when you want to open a page on the internet, you end the file name with ```.md```. Then open the website from the Pages tab in the repository's Settings, and copy the file name. Just remember to end the file name with ```.html``` to open it.
 
 
