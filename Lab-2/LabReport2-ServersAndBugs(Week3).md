@@ -16,3 +16,4 @@ So... This fancy little tool is why you have a GitHub account - other than the f
 
 Once you do that and open the app, you should face a page that looks like this:
 > ![GitHub opening page](GitHubOpenPage.png)
+
