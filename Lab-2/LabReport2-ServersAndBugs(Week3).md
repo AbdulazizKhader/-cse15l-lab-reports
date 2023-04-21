@@ -48,5 +48,5 @@ java NumberServer 4000
 2. Now you're live! Try refreshing the page a couple of times and test out the code in the wavelet file to see what happens!
 
 Now to save your changes, you have to commit and push them, and this is how you do it:  
-1. Open your GitHub Desktop window, and it should show that you have made a change in the ```wavelet``` respository as seen in the image below. Click the button shown at the bottom left that says ```Commit to master```. 
+1. Open your GitHub Desktop window, and it should show that you have made a change in the ```wavelet``` respository. Click the button shown at the bottom left that says ```Commit to master```. 
 2. Next, for the changes to actually appear on GitHub, you need to push them. GitHub Desktop should now display a new screen. Click the ```Push origin``` button on the page.
