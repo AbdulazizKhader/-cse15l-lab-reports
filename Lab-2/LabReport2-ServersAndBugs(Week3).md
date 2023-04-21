@@ -24,7 +24,7 @@ First of all, the code you're gonna need is this:
 ```
 interface URLHandler {
       String processRequest(URI uri);
-   }
+}
 ```
 >And one to implement that interface in a method:
 ```
