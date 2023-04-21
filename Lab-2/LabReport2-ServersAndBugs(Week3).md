@@ -34,7 +34,15 @@ class Server {
 ```
 Once that's done, here's how you build and run the server:
 >*Remember, you are going to run this on your Git Bash, not on your powershell terminal*
-1. Open the terminal and compile the files that contain the general server class and your specific implementation of the class:
+>The best way to see a live example is to refer back to the code given to you in the wavelet fork you made.
+
+Some definitions you might need:
+> Ports: The 4000 above identifies a specific port that the web server runs on. This is an extra part of a URL that’s often used in development; 4000 isn’t special and you could pick others – you’re welcome to try a few in the thousands.
+> Localhost: The localhost domain refers to the computer you’re on. So rather than going out over the internet to send the URL to a particular domain somewhere else, this page is being handled by the running Java program on your computer, which we say is “listening” on localhost at port 4000. That work is what’s done in Server.java and by Java’s HTTPServer library.
+
+1. Open the terminal, then compile and run the files that contain the general server class and your specific implementation of the class:
 ```
 javac Server.java NumberServer.java 
+java NumberServer 4000
 ```
+The 4000 is the name of the *port* you connected to. 
