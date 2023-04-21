@@ -29,7 +29,7 @@ interface URLHandler {
 >And one to implement that interface in a method:
 ```
 class Server {
-  static void start(int port, URLHandler handler) { ... }
+      static void start(int port, URLHandler handler) { //method body. not really important for the idea to be understood }
 }
 ```
  
