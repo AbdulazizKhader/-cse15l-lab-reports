@@ -21,7 +21,15 @@ Once you do that and open the app, you should face a page that looks like this:
 Since the next few things are interrelated, it would me much easier to understand if they're all in one heading. So. You wanna make your own server? **WELL HERE YOU GOOOOO!** This is where things get suuper interesting:
 First of all, the code you're gonna need is this:
 >One to implement the URI (URL library) interface:
-```interface URLHandler {
+```
+interface URLHandler {
       String processRequest(URI uri);
-   }```
+   }
+```
+>And one to implement that interface in a method:
+```
+class Server {
+  static void start(int port, URLHandler handler) { ... }
+}
+```
  
