@@ -50,3 +50,7 @@ java NumberServer 4000
 Now to save your changes, you have to commit and push them, and this is how you do it:  
 1. Open your GitHub Desktop window, and it should show that you have made a change in the ```wavelet``` respository. Click the button shown at the bottom left that says ```Commit to master```. 
 2. Next, for the changes to actually appear on GitHub, you need to push them. GitHub Desktop should now display a new screen. Click the ```Push origin``` button on the page.
+
+Running it on a remote server just needs one extra step before compiling, which is to log into your remote account and run this:
+```git clone <your-repository-url-for-your-fork>```
+Then compile and run the files. This result in the same page.
