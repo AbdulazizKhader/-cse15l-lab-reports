@@ -32,4 +32,6 @@ class Server {
       static void start(int port, URLHandler handler) { //method body. not really important for the idea to be understood }
 }
 ```
- 
+Once that's done, here's how you build and run the server
+>Remember, you are going to run this on your Git Bash, not on your powershell terminal
+>
