@@ -88,3 +88,6 @@ class StringHandler implements URLHandler{
 - This is the "head" method being run by the code. The "head" method itself has a lot of inner code running it, so for a fuller view check ```StringSearch.java```
 - For this class all we needed was the URL of the website we wanted. After getting the request and making sure it is ```/add-message```, we added the rest of the URL to the String.
 - No values will change from this implementation since the text that comes after the equals sign will be dealt with as a String, so any integer, URL, or other types will be dealt with as a String.
+
+## Part 3
+Well I guess that my reference was not for naught! The documentation before Part 1 serves as all the things I have learned from week 2 and week 3.
