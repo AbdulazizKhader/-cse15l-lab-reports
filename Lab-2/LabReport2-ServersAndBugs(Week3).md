@@ -63,3 +63,5 @@ WE MADE A SEARCH ENGINE! Well... kinda. It adds the text you put into the search
 Here's the output: 
 > ![Image of Saving searches](SearchEngine.png)
 > ![Another Image Of Searches](SearchEngineP2.png)
+
+For both the images, the code run was the same since the file is the same. What essentially happened was that the server you created was "listening" for the request you made, which is "add-message". After the program understood the request, it took everything that occured after the question mark as the *query*, which is what we want to add and some extra. We removed the unnecessary "s=" and added it to a String, which we then outputted to the website.
