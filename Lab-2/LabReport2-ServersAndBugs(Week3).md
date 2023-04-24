@@ -54,3 +54,10 @@ Now to save your changes, you have to commit and push them, and this is how you 
 Running it on a remote server just needs one extra step before compiling, which is to log into your remote account and run this:
 ```git clone <your-repository-url-for-your-fork>```
 Then compile and run the files. This result in the same page.
+
+This all was for my reference, but the real stuff comes below:
+
+## Part 1
+WE MADE A SEARCH ENGINE! Well... kinda. It adds the text you put into the search bar and returns a message with *all the strings, including the previously typed ones*
+Here's the output:
+![Image of Saving searches](SearchEngine.png)
