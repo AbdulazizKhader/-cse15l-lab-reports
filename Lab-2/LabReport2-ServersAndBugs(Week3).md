@@ -58,6 +58,7 @@ Then compile and run the files. This result in the same page.
 This all was for my reference, but the real stuff comes below:
 
 ## Part 1
-WE MADE A SEARCH ENGINE! Well... kinda. It adds the text you put into the search bar and returns a message with *all the strings, including the previously typed ones*
-Here's the output:
-![Image of Saving searches](SearchEngine.png)
+WE MADE A SEARCH ENGINE! Well... kinda. It adds the text you put into the search bar and returns a message with *all the strings, including the previously typed ones.*
+
+Here's the output: 
+> ![Image of Saving searches](SearchEngine.png)
