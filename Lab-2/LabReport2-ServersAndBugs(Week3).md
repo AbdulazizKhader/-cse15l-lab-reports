@@ -93,13 +93,11 @@ class StringHandler implements URLHandler{
 Cool. Now then, let's squash some BUGS:
 Here's a bug from week 3's lab:
 ```
-  static int[] reversed(int[] arr) {
-    int[] newArray = new int[arr.length];
+static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
-      arr[i] = newArray[arr.length - i - 1];
+      arr[i] = arr[arr.length - i - 1];
     }
-    return arr;
-  }
+}
 ```
 
 When you first run this, you won't see an issue. Here's a demonstration:
