@@ -101,6 +101,16 @@ Here's a bug from week 3's lab:
     return arr;
   }
   ```
+When you first run this, you won't see an issue. Here's a demonstration:
+```
+   @Test 
+   public void testReverseInPlace() {
+    int[] input1 = { 3 };
+    ArrayExamples.reverseInPlace(input1);
+    assertArrayEquals(new int[]{ 3 }, input1);
+    }
+```
+
 This bug shows when testing it with the proper code. Thankfully, JUnit came to the rescue:
 ```
   @Test
