@@ -111,6 +111,8 @@ This bug shows when testing it with the proper code. Thankfully, JUnit came to t
     assertArrayEquals(reversedNumbers, numbers);
   }
   ```
+  This test will output an error, saying that the last element is not what it should be:
+  > ![Failed Output](FailureOutput.png)
 
 ## Part 3
 Well I guess that my reference was not for naught! The documentation before Part 1 serves as all the things I have learned from week 2 and week 3.
