@@ -92,7 +92,15 @@ class StringHandler implements URLHandler{
 ## Part 2
 Cool. Now then, let's squash some BUGS:
 Here's a bug from week 3's lab:
-> ![Image Of Bug 1](BugFromWeek3.png)
+```
+  static int[] reversed(int[] arr) {
+    int[] newArray = new int[arr.length];
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = newArray[arr.length - i - 1];
+    }
+    return arr;
+  }
+  ```
 
 
 ## Part 3
