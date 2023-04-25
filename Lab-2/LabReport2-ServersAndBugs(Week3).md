@@ -91,6 +91,8 @@ class StringHandler implements URLHandler{
 
 ## Part 2
 Cool. Now then, let's squash some BUGS:
+Here's a bug from week 3's lab:
+![Image Of Bug 1](BugFromWeek3.png)
 
 
 ## Part 3
