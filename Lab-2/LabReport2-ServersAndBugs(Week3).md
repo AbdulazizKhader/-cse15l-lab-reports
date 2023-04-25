@@ -100,7 +100,8 @@ Here's a bug from week 3's lab:
     }
     return arr;
   }
-  ```
+```
+
 When you first run this, you won't see an issue. Here's a demonstration:
 ```
    @Test 
@@ -110,8 +111,9 @@ When you first run this, you won't see an issue. Here's a demonstration:
     assertArrayEquals(new int[]{ 3 }, input1);
     }
 ```
+This test will not output an error, so it seems that there is no issue with our code.
 
-This bug shows when testing it with the proper code. Thankfully, JUnit came to the rescue:
+However, this bug will show when testing it with the proper code. Thankfully, JUnit came to the rescue:
 ```
   @Test
   public void testReversedInPlace2(){
