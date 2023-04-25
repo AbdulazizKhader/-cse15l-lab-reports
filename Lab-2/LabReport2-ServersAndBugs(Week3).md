@@ -144,5 +144,7 @@ static void reverseInPlace(int[] arr) {
       }
 }
 ```
+This fix now added all the elements, including the last one, correctly to the array.
+
 ## Part 3
 Well I guess that my reference was not for naught! The documentation before Part 1 serves as all the things I have learned from week 2 and week 3.
