@@ -125,6 +125,15 @@ However, this bug will show when testing it with the proper code. Thankfully, JU
   > ![Failed Output](FailureOutput.png)
 
 So the symptom was that it wasn't correctly adding all the elements for arrays that are longer than 1.  
+This is what it looked like before the fix:
+```
+static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = arr[arr.length - i - 1];
+    }
+}
+```
+
 A fix for this issue can look like:
 ```
 static void reverseInPlace(int[] arr) {
