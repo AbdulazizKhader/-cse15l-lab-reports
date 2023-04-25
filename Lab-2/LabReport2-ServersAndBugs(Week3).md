@@ -124,5 +124,16 @@ However, this bug will show when testing it with the proper code. Thankfully, JU
   This test will output an error, saying that the last element is not what it should be:
   > ![Failed Output](FailureOutput.png)
 
+So the symptom was that it wasn't correctly adding all the elements for arrays that are longer than 1.
+A fix for this issue can look like:
+```
+static void reverseInPlace(int[] arr) {
+      for(int i = 0; i < arr.length / 2; i++) {
+        int temp = arr[i];
+        arr[i] = arr[arr.length - i - 1];
+        arr[arr.length - i - 1] = temp;
+      }
+}
+```
 ## Part 3
 Well I guess that my reference was not for naught! The documentation before Part 1 serves as all the things I have learned from week 2 and week 3.
