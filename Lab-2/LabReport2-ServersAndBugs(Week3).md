@@ -124,7 +124,7 @@ However, this bug will show when testing it with the proper code. Thankfully, JU
   This test will output an error, saying that the last element is not what it should be:
   > ![Failed Output](FailureOutput.png)
 
-So the symptom was that it wasn't correctly adding all the elements for arrays that are longer than 1.
+So the symptom was that it wasn't correctly adding all the elements for arrays that are longer than 1.  
 A fix for this issue can look like:
 ```
 static void reverseInPlace(int[] arr) {
