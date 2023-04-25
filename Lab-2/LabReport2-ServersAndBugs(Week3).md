@@ -101,7 +101,16 @@ Here's a bug from week 3's lab:
     return arr;
   }
   ```
-
+This bug shows when testing it with the proper code. Thankfully, JUnit came to the rescue:
+```
+  @Test
+  public void testReversedInPlace2(){
+    int[] numbers = {5, 10, 15};
+    ArrayExamples.reverseInPlace(numbers);
+    int[] reversedNumbers = {15, 10, 5};
+    assertArrayEquals(reversedNumbers, numbers);
+  }
+  ```
 
 ## Part 3
 Well I guess that my reference was not for naught! The documentation before Part 1 serves as all the things I have learned from week 2 and week 3.
