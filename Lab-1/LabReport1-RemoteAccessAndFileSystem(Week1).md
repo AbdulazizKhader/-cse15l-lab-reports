@@ -60,7 +60,7 @@ Now the fun stuff: *Flip the end vector brackets when writing the command*
 > - ls <path< - “List” Used to list the files and folders in the given path  
 > - pwd - “Print working directory” Used to display the current working directory  
 > - cd <path< - “Change Directory” Used to switch the current working directory to the given path  
-> > When you have a file nemae with spaces, you can use single quotes to write the name: ```cd 'UCSD Files' ```
+> > When you have a file name with spaces, you can use single quotes to write the name: ```cd 'UCSD Files' ```
 
 Here's a sneak peek of what happens when you play with the commands a bit:  
 >![commands](Commands.png) 
