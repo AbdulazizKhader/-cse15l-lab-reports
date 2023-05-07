@@ -23,3 +23,7 @@ bash count-txts.sh
 // should output something like:
 //  1391     1391   54178 grep-results.txt
 ```
+That basically covered everything you learned. The actual Lab Report happens now:
+## Part 1: Researching Commands
+The more interesting command in my opinion is ```grep```, so here are a few fun options that you can do with that command:
+>
