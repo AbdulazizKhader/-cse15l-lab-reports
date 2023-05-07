@@ -11,3 +11,15 @@ So here's a breakdown of what you learned:
 > ```grep```: it takes a string and a file, and prints out all the lines in that file that *match* the string. As in, if the string was "Hi", it would print out all the lines that contain "Hi".
 
 You also learned about *bash scripts*. Sounds fancy, doesn't it? 
+Bash scripts is basically a file that contains a bunch of commands. The great part of this is that you can save a **TON** of commands and run it with a single line. It has to end with ```.sh``` to signal to the terminal that it is a bash scripts. An example would look like:
+```
+// The name of the file is count-txts.sh
+find technical > find-results.txt
+grep ".txt" find-results.txt > grep-results.txt
+wc grep-results.txt
+```
+```
+bash count-txts.sh
+// should output something like:
+//  1391     1391   54178 grep-results.txt
+```
