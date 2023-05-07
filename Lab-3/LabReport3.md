@@ -9,3 +9,5 @@ So here's a breakdown of what you learned:
 > - ```less```: it does the same thing as ```cat```, but it makes it such that not all the output is printed at once. It prints the first couple of lines and to go to the next line you press enter. To exit, press Q.
 > - ```wc```: it stands for word count, and it prints out the number of lines, words, and characters in a file.
 > ```grep```: it takes a string and a file, and prints out all the lines in that file that *match* the string. As in, if the string was "Hi", it would print out all the lines that contain "Hi".
+
+You also learned about *bash scripts*. Sounds fancy, doesn't it? 
