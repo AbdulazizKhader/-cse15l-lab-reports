@@ -30,7 +30,11 @@ The more interesting command in my opinion is ```grep```, so here are a few fun 
 ```
 [cs15lsp23zz@ieng6-201]:911report:128$ grep -i "HanDle" chapter-1.txt
 ```
-"At 9:42, the Command Center learned from news reports that a plane had struck the Pentagon. The Command Center's national operations manager, Ben Sliney, ordered all FAA facilities to instruct all aircraft to land at the nearest airport. This was an unprecedented order. The air traffic control system ***handled*** it with great skill, as about 4,500 commercial and general aviation aircraft soon landed without incident.  
+At 9:42, the Command Center learned from news reports that a plane had struck the Pentagon. The Command Center's national operations manager, Ben Sliney, ordered all FAA facilities to instruct all aircraft to land at the nearest airport. This was an unprecedented order. The air traffic control system ***handled*** it with great skill, as about 4,500 commercial and general aviation aircraft soon landed without incident.  
 
 The defense of U.S. airspace on 9/11 was not conducted in accord with preexisting training and protocols. It was improvised by civilians who had never ***handled*** a hijacked aircraft that attempted to disappear, and by a military unprepared for the transformation of commercial aircraft into weapons of mass destruction. As it turned out, the NEADS air defenders had nine minutes' notice on the first hijacked plane, no advance notice on the second, no advance notice on the third, and no advance notice on the fourth.
 
+```
+[cs15lsp23zz@ieng6-201]:911report:129$ grep -i "woRkIng In" chapter-1.txt
+```
+At 9:59, an Air Force lieutenant colonel ***working in*** the White House Military Office joined the conference and stated he had just talked to Deputy National Security Advisor Stephen Hadley. The White House requested (1) the implementation of continuity of government measures, (2) fighter escorts for Air Force One, and (3) a fighter combat air patrol over Washington, D.C.
