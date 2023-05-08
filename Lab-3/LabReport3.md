@@ -70,3 +70,10 @@ The output was very long, so here is a good chunk of it:
 The output:
 
 656:    Once again, there was no immediate information about the fate of the inbound aircraft. In the apt description of one witness, "It drops below the radar screen and it's just continually hovering in your imagination; you don't know where it is or what happens to it." Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter.
+- ```-v```: The "inverter", which gives you all the lines that do *not* match the given string:
+```
+[cs15lsp23zz@ieng6-201]:911report:150$ grep -v -n "At"  chapter-1.txt
+```
+The output was very large as well, but here is a small part of it:
+302:    F-15 fighters were scrambled at 8:46 from Otis Air Force Base. But NEADS did not know where to send the alert fighter aircraft, and the officer directing the fighters pressed for more information:"I don't know where I'm scrambling these guys to. I need a direction, a destination." Because the hijackers had turned off the plane's transponder, NEADS personnel spent the next minutes searching their radar scopes for the primary radar return. American 11 struck the NorthTower at 8:46. Shortly after 8:50, while NEADS personnel were still trying to locate the flight, word reached them that a plane had hit the World Trade Center.
+640:    Among the sources that reflect other important events of that morning, there is no documentary evidence for this call, but the relevant sources are incomplete. Others nearby who were taking notes, such as the Vice President's chief of staff, Scooter Libby, who sat next to him, and Mrs. Cheney, did not note a call between the President and Vice President immediately after the Vice President entered the conference room.
