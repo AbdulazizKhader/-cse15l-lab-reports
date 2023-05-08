@@ -30,6 +30,5 @@ The more interesting command in my opinion is ```grep```, so here are a few fun 
 ```
 [cs15lsp23zz@ieng6-201]:911report:128$ grep -i "HanDle" chapter-1.txt
 ```
-    At 9:42, the Command Center learned from news reports that a plane had struck the Pentagon. The Command Center's national operations manager, Ben Sliney, ordered all FAA facilities to instruct all aircraft to land at the nearest airport. This was an unprecedented order. The air traffic control system handled it with great skill, as about 4,500 commercial and general aviation aircraft soon landed without incident.
-    The defense of U.S. airspace on 9/11 was not conducted in accord with preexisting training and protocols. It was improvised by civilians who had never **handled** a hijacked aircraft that attempted to disappear, and by a military unprepared for the transformation of commercial aircraft into weapons of mass destruction. As it turned out, the NEADS air defenders had nine minutes' notice on the first hijacked plane, no advance notice on the second, no advance notice on the third, and no advance notice on the fourth.
+
 
