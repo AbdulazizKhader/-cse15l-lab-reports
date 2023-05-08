@@ -27,7 +27,7 @@ That basically covered everything you learned. The actual Lab Report happens now
 ## Part 1: Researching Commands
 The more interesting command in my opinion is ```grep```, so here are a few fun options that you can do with that command:
 - ```-i```: This will ignore the uppercase vs. lowercase and find all the files that contain the string. Some examples of that would look like:
-> ```
+```
 [cs15lsp23zz@ieng6-201]:911report:128$ grep -i "HanDle" chapter-1.txt
 ```
 At 9:42, the Command Center learned from news reports that a plane had struck the Pentagon. The Command Center's national operations manager, Ben Sliney, ordered all FAA facilities to instruct all aircraft to land at the nearest airport. This was an unprecedented order. The air traffic control system ***handled*** it with great skill, as about 4,500 commercial and general aviation aircraft soon landed without incident.  
