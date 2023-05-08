@@ -47,3 +47,8 @@ At 9:59, an Air Force lieutenant colonel ***working in*** the White House Milita
 35
 ```
 This means that there are 35 lines in chapter-1.txt that have the string "miltary" in them.
+```
+[cs15lsp23zz@ieng6-201]:911report:133$ grep -i -c "LAnd" chapter-1.txt
+34
+```
+Did you notice that I used two commands? This output means that there are 34 lines that contain the word "land" *regardless of the case of the letters*.
