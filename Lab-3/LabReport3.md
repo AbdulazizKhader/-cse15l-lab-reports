@@ -80,10 +80,16 @@ The output was very large as well, but here is a small part of it:
 
 640:    Among the sources that reflect other important events of that morning, there is no documentary evidence for this call, but the relevant sources are incomplete. Others nearby who were taking notes, such as the Vice President's chief of staff, Scooter Libby, who sat next to him, and Mrs. Cheney, did not note a call between the President and Vice President immediately after the Vice President entered the conference room.
 ```
-grep -v -n -i "it"  chapter-1.txt
+[cs15lsp23zz@ieng6-201]:911report:152$ grep -v -n -i "it"  chapter-1.txt
 ```
 A part of the output is:
 
 640:    Among the sources that reflect other important events of that morning, there is no documentary evidence for this call, but the relevant sources are incomplete. Others nearby who were taking notes, such as the Vice President's chief of staff, Scooter Libby, who sat next to him, and Mrs. Cheney, did not note a call between the President and Vice President immediately after the Vice President entered the conference room.
 
 716:    First, the Langley pilots were never briefed about the reason they were scrambled. As the lead pilot explained, "I reverted to the Russian threat. . . . I'm thinking cruise missile threat from the sea. You know you look down and see the Pentagon burning and I thought the bastards snuck one by us. . . . [Y]ou couldn't see any airplanes, and no one told us anything." The pilots knew their mission was to divert aircraft, but did not know that the threat came from hijacked airliners. 
+
+### Resources
+The link you got all this info from is (this)[id]
+
+
+[id]: https://www.geeksforgeeks.org/grep-command-in-unixlinux/
