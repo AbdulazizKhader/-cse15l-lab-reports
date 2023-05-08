@@ -56,7 +56,14 @@ Did you notice that I used two commands? This output means that there are 34 lin
 ```
 [cs15lsp23zz@ieng6-201]:911report:139$ grep -n "word" chapter-1.txt
 ```
-The output was very long, so here is a good chunk of it:
+The output was very long, so here is a good chunk of it:  
+
 274:    The controller only heard something unintelligible; he did not hear the specific words "we have some planes." The next transmission came seconds later: American 11: Nobody move. Everything will be okay. If you try to make any moves, you'll endanger yourself and the airplane. Just stay quiet.
 280:    By this time, American 11 had taken a dramatic turn to the south. At 8:32, the Command Center passed word of a possible hijacking to the Operations Center at FAA headquarters. The duty officer replied that security personnel at headquarters had just begun discussing the apparent hijack on a conference call with the New England regional office. FAA headquarters began to follow the hijack protocol but did not contact the NMCC to request a fighter escort.
 302:    F-15 fighters were scrambled at 8:46 from Otis Air Force Base. But NEADS did not know where to send the alert fighter aircraft, and the officer directing the fighters pressed for more information:"I don't know where I'm scrambling these guys to. I need a direction, a destination." Because the hijackers had turned off the plane's transponder, NEADS personnel spent the next minutes searching their radar scopes for the primary radar return. American 11 struck the NorthTower at 8:46. Shortly after 8:50, while NEADS personnel were still trying to locate the flight, word reached them that a plane had hit the World Trade Center.
+
+```
+[cs15lsp23zz@ieng6-201]:911report:144$ grep -i -n "heLiCop" chapter-1.txt
+```
+The output:
+656:    Once again, there was no immediate information about the fate of the inbound aircraft. In the apt description of one witness, "It drops below the radar screen and it's just continually hovering in your imagination; you don't know where it is or what happens to it." Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter.
