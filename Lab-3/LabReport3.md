@@ -68,4 +68,5 @@ The output was very long, so here is a good chunk of it:
 [cs15lsp23zz@ieng6-201]:911report:144$ grep -i -n "heLiCop" chapter-1.txt
 ```
 The output:
+
 656:    Once again, there was no immediate information about the fate of the inbound aircraft. In the apt description of one witness, "It drops below the radar screen and it's just continually hovering in your imagination; you don't know where it is or what happens to it." Eventually, the shelter received word that the alleged hijacker 5 miles away had been a medevac helicopter.
