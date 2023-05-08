@@ -26,4 +26,10 @@ bash count-txts.sh
 That basically covered everything you learned. The actual Lab Report happens now:
 ## Part 1: Researching Commands
 The more interesting command in my opinion is ```grep```, so here are a few fun options that you can do with that command:
->
+- ```-i```: This will ignore the uppercase vs. lowercase and find all the files that contain the string. Some examples of that would look like:
+```
+[cs15lsp23zz@ieng6-201]:stringsearch:121$ grep -i "EveRy" words.txt 
+everyone
+everything
+[cs15lsp23zz@ieng6-201]:stringsearch:122$
+```
