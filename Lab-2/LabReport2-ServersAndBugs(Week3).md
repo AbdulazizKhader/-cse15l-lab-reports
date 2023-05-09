@@ -67,11 +67,10 @@ Here's the output:
 - For both the images, the code run was the same since the file is the same. What essentially happened was that the server you created was "listening" for the request you made, which is "add-message". After the program understood the request, it took everything that occured after the question mark as the *query*, which is what we want to add and some extra. We removed the unnecessary "s=" and added it to a String, which we then outputted to the website.
 - In code, the methods that were called were part of the handler class:
 ```
-//This is a comment
-/**
- * This class will take the url and check the path (the command it wants to do)
- * and handle the request appropriately.
- */
+
+ //This class will take the url and check the path (the command it wants to do)
+ //and handle the request appropriately.
+ 
 class StringHandler implements URLHandler{
     String message = "";
 
