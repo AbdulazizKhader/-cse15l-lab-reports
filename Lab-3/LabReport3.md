@@ -42,7 +42,7 @@ The defense of U.S. airspace on 9/11 was not conducted in accord with preexistin
 The output is all the lines that contained the words "working in":
 At 9:59, an Air Force lieutenant colonel ***working in*** the White House Military Office joined the conference and stated he had just talked to Deputy National Security Advisor Stephen Hadley. The White House requested (1) the implementation of continuity of government measures, (2) fighter escorts for Air Force One, and (3) a fighter combat air patrol over Washington, D.C.
 
-A useful example of using this method is to find all occurences of the word "allergy" on a medical report, regardless if it wa in the beginning of the sentence or the middle. 
+A useful example of using this method is to find all occurences of the word "allergy" on a medical report, regardless if it was in the beginning of the sentence or the middle. 
 - ```-c```: This will give you the *number* of lines that match the given string:
 ```
 [cs15lsp23zz@ieng6-201]:911report:130$ grep -c "military" chapter-1.txt
