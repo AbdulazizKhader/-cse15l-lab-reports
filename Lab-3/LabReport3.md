@@ -54,6 +54,8 @@ This means that there are 35 lines in chapter-1.txt that have the string "miltar
 34
 ```
 Did you notice that I used two commands? This output means that there are 34 lines that contain the word "land" *regardless of the case of the letters*.
+
+A useful time this command will come in handy is when you are scouring a 500000 line book to look for the word "dragon".
 - ```-n```: This will output the line that matches the string AND the line number it was found in:
 ```
 [cs15lsp23zz@ieng6-201]:911report:139$ grep -n "word" chapter-1.txt
