@@ -30,6 +30,7 @@ The more interesting command in my opinion is ```grep```, so here are a few fun 
 ```
 [cs15lsp23zz@ieng6-201]:911report:128$ grep -i "HanDle" chapter-1.txt
 ```
+
 The output is all the lines that contained the word "handle":
 At 9:42, the Command Center learned from news reports that a plane had struck the Pentagon. The Command Center's national operations manager, Ben Sliney, ordered all FAA facilities to instruct all aircraft to land at the nearest airport. This was an unprecedented order. The air traffic control system ***handled*** it with great skill, as about 4,500 commercial and general aviation aircraft soon landed without incident.  
 
