@@ -60,7 +60,7 @@ A useful time this command will come in handy is when you are scouring a 500000 
 ```
 [cs15lsp23zz@ieng6-201]:911report:139$ grep -n "word" chapter-1.txt
 ```
-The output was very long, so here is a good chunk of it:  
+The output consisted of lines that do *not* contain the word "word". It was very long, so here is a good chunk of it:  
 
 274:    The controller only heard something unintelligible; he did not hear the specific words "we have some planes." The next transmission came seconds later: American 11: Nobody move. Everything will be okay. If you try to make any moves, you'll endanger yourself and the airplane. Just stay quiet.
 
