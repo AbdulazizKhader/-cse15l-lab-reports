@@ -81,7 +81,7 @@ The output:
 ```
 [cs15lsp23zz@ieng6-201]:911report:150$ grep -v -n "At"  chapter-1.txt
 ```
-The output was very large as well, but here is a small part of it:  
+The output was very large as well, as it got all the lines that *did not contain "At" and the number of the line that satisfies that*, but here is a small part of it:  
 
 302:    F-15 fighters were scrambled at 8:46 from Otis Air Force Base. But NEADS did not know where to send the alert fighter aircraft, and the officer directing the fighters pressed for more information:"I don't know where I'm scrambling these guys to. I need a direction, a destination." Because the hijackers had turned off the plane's transponder, NEADS personnel spent the next minutes searching their radar scopes for the primary radar return. American 11 struck the NorthTower at 8:46. Shortly after 8:50, while NEADS personnel were still trying to locate the flight, word reached them that a plane had hit the World Trade Center.
 
