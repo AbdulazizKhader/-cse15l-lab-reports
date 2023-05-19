@@ -92,6 +92,8 @@ A part of the output is:
 
 716:    First, the Langley pilots were never briefed about the reason they were scrambled. As the lead pilot explained, "I reverted to the Russian threat. . . . I'm thinking cruise missile threat from the sea. You know you look down and see the Pentagon burning and I thought the bastards snuck one by us. . . . [Y]ou couldn't see any airplanes, and no one told us anything." The pilots knew their mission was to divert aircraft, but did not know that the threat came from hijacked airliners. 
 
+A useful time to use this is when looking at logs. A sailor would keep logs of his journeys, and if he kept his logs digitally, then he can see when he went to "Islands".
+
 ### Resources
 The link you got all this info from is a very reliable [source]: GeeksForGeeks. You will use it a *lot* more in the future.
 
