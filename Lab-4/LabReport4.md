@@ -4,4 +4,6 @@ This week, you learned a lot about ```vim```, which is a very efficient text edi
 Anywho, let's get to the parts:
 
 ### Part 1
-
+We are gonna walk through steps 4-9 in the Baseline task of week 7:
+1. *Keys inputted:* ```ssh cs15lsp23cl@ieng6.ucsd.edu <enter>```. This is just standard remote logging into an account.
+2. 
