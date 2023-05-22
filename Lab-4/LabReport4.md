@@ -6,4 +6,5 @@ Anywho, let's get to the parts:
 ### Part 1
 We are gonna walk through steps 4-9 in the Baseline task of week 7:
 1. *Keys inputted:* ```ssh cs15lsp23cl@ieng6.ucsd.edu <enter>```. This is just standard remote logging into an account.
-2. 
+2. *Keys inputted:* ``` git clone git@github.com:AbdulazizKhader/lab7.git```. This is a git command to clone the repository from my GitHub account into the ieng6 account.
+3. 
