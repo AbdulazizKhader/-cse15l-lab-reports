@@ -33,4 +33,4 @@ This just means that there is a directory with that name that already exists, wh
 ![RSA key](RSAKey.png)
 - The next few steps are done on GitHub, so open it and go to Settings by clicking your avatar. Then open the SSH and GPG tab.
 - Press ```New SSH Key```. Copy the key you got in your terminal and paste it in the box provided, and give the key a title so you know which account this responds to.
-- 
+- Run the following command to add Github.com as a recognized host (this avoids the scary yes/no prompt about accepting new connections the first time you connect): ```ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts```
