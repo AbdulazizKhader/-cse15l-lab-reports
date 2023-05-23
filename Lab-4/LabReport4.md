@@ -31,3 +31,6 @@ This just means that there is a directory with that name that already exists, wh
 - *Keys pressed:* ```ssh-keygen <enter> <enter> <enter> ```. This will open the random key art that came with your key generation.
 - *Keys pressed:* ``` cat .ssh/id_rsa```. This will print out the 256-bit RSA key that you made. It will look something like this:
 ![RSA key](RSAKey.png)
+- The next few steps are done on GitHub, so open it and go to Settings by clicking your avatar. Then open the SSH and GPG tab.
+- Press ```New SSH Key```. Copy the key you got in your terminal and paste it in the box provided, and give the key a title so you know which account this responds to.
+- 
