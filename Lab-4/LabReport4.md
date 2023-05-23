@@ -18,7 +18,8 @@ This just means that there is a directory with that name that already exists, wh
 - *Keys pressed:* ```<shift + g> k k k k k k e ```. This took me to the end of the file then I went up 6 times. After that I went to the end of the first word. 
 - *Keys pressed:* ```x i 2 <esc>```. This removed the last character of the word, then took me to insert mode to edit the file correctly. After changing index1 to index2, I went back to normal mode.
 - *Keys pressed:* ```: w q <enter>```. This saves my changes and then quits vim.
-
+5. *Keys pressed:* ``` bash test.sh```. Now you check the test again and see that it passes both tests:
+![testPassed](testsPassed.png)
 
 
 
