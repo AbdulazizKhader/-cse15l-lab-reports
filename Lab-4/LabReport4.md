@@ -21,7 +21,13 @@ This just means that there is a directory with that name that already exists, wh
 5. *Keys pressed:* ```bash test.sh```. Now you check the test again and see that it passes both tests:
 ![testPassed](testsPassed.png)
 6. This last step requires more work since you don't have access to GitHub yet, so you have to give it access:
-> *Keys pressed:* ``` ssh-keygen <enter> <enter> <enter> ```. This created a key for your ieng6 account.
-
-
-
+- This first part is to create keys for your ieng6 account:
+- *Keys pressed:* ```ssh-keygen <enter> <enter> <enter> ```. This created a key for your ieng6 account.
+- *Keys pressed:* ```ssh cs15sp23cl@ieng6.ucsd.edu <enter> mkdir .ssh <enter>```. This logged you into your ieng6 account and created a directory called .ssh, which will store the key.
+- *Keys pressed:* ```scp /Users/azizk/.ssh/id_rsa.pub cs15lsp23cl@ieng6.ucsd.edu:~/.ssh/authorized_keys```. This takes a copy of the key you saved on your local computer and stores it on your remote account.
+- This is now the last time you have to put in your password!
+- After that you plug that key you generated into GitHub:
+- Relogin to your remote account if you logged out, which is done by ```ssh cs15lsp23cl@ieng6.ucsd.edu <enter>```.
+- *Keys pressed:* ```ssh-keygen <enter> <enter> <enter> ```. This will open the random key art that came with your key generation.
+- *Keys pressed:* ``` cat .ssh/id_rsa```. This will print out the 256-bit RSA key that you made. It will look something like this:
+![RSA key](RSAKey.png)
