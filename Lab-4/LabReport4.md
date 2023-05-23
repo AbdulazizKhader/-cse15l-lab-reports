@@ -14,6 +14,7 @@ This just means that there is a directory with that name that already exists, wh
 ![failed test 2](FailedTest2.png)
 4. Now's the fun part: you fix this *in vim*:
 - *Keys pressed:* ``` vim List <tab> .java <enter>```. This autocompleted the file name so I can enter vim without any fear of typos.
+![vimView](vimView.png)
 - *Keys pressed:* ```<shift + g> k k k k k k e ```. This took me to the end of the file then I went up 6 times. After that I went to the end of the first word. 
 - *Keys pressed:* ```x i 2 <esc>```. This removed the last character of the word, then took me to insert mode to edit the file correctly. After changing index1 to index2, I went back to normal mode.
 - *Keys pressed:* ```: w q <enter>```. This saves my changes and then quits vim.
