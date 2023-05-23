@@ -35,3 +35,7 @@ This just means that there is a directory with that name that already exists, wh
 - Press ```New SSH Key```. Copy the key you got in your terminal and paste it in the box provided, and give the key a title so you know which account this responds to.
 - Run the following command to add Github.com as a recognized host (this avoids the scary yes/no prompt about accepting new connections the first time you connect): *These are the keys pressed as well*```ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts```
 - Check your connection using ```ssh -T git@github.com```. This will output something along the lines of "You’ve successfully authenticated, but GitHub does not provide shell access."
+And now you're done! You've successfully linked your ieng6 account with your GitHub account, so that leaves one last step:
+7. *Keys pressed:* ```git add ListExamples.java <enter>```. This gets the file ready for committing and pushing.
+8. *Keys pressed:* ```git commit -m "Fixed ListExamples" ```. This commits the change with a small message describing it.
+9. *Keys pressed:* ```git push origin main```. This pushes the change into the origin, which is your GitHub link, and into the main branch.
