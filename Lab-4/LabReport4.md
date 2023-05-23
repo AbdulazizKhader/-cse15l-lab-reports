@@ -38,4 +38,5 @@ This just means that there is a directory with that name that already exists, wh
 And now you're done! You've successfully linked your ieng6 account with your GitHub account, so that leaves one last step:
 7. *Keys pressed:* ```git add ListExamples.java <enter>```. This gets the file ready for committing and pushing.
 8. *Keys pressed:* ```git commit -m "Fixed ListExamples" ```. This commits the change with a small message describing it.
+![gitCommit](gitCommit.png)
 9. *Keys pressed:* ```git push origin main```. This pushes the change into the origin, which is your GitHub link, and into the main branch.
