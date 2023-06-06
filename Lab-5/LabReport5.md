@@ -53,3 +53,4 @@ This would pass all the tests:
 > ![picOfWorking](PicOfWorkingCode.png)
 
 ### Part 2
+The most interesting thing you have learned by a landslide was learning about vim. It felt like you were recreating the matrix using primitive devices, and it makes you look like a professional programmer (my new CS Rizz technique?) 
