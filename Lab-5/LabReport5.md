@@ -10,7 +10,22 @@ I am creating a method to remove an element from an array. It manages to success
 > ![picOfError](PicOfError.png)
 
 **Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.**
+The input was an integer array of length 8, and the code it ran on was the following:
+```
+public class ErrorScenario {
+    static void remove(int toRemove, int[] arr){
+        if(arr == null){
+            return;
+        }
 
+        for(int i = 0; i < arr.length - 1; i++){
+            if(arr[i] == toRemove){
+                arr[i] = arr[0];
+            }
+        }
+    }
+}
+```
 
 
 
