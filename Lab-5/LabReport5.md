@@ -6,11 +6,13 @@ There isn't much we did to catch up on, but you did have fun doing Kahoot this w
 Windows
 
 **Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.**
-I am creating a method to remove an element from an array. It manages to successfully remove the elements at various indexes, but fails to remove the element at the last index.
+I am creating a method to remove an element from an array. It manages to successfully remove the elements at various indexes, but fails to remove the element at the last index. It also fails to remove the first element as well.
+> ![picOfSecondError](PicOfSecondError.png)
 > ![picOfError](PicOfError.png)
 
+
 **Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.**
-The input was an integer array of length 8, and the code it ran on was the following:
+The first input was an integer array of length 6, and the second input was an integer array of length 8. The code it ran on was the following:
 ```
 public class ErrorScenario {
     static void remove(int toRemove, int[] arr){
