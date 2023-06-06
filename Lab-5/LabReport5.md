@@ -33,3 +33,9 @@ The TA would respond with:
 - Could you change the for loop from ```arr.length - 1``` to ```arr.length```? This will make it go to the end of the loop.
 - Change the code inside the if statement from ```arr[i] = arr[0]``` to ```arr[i] = 0``` since none of the elements are zero.
 
+The final product after changing would look like:
+```
+pu
+```
+This would pass all the tests:
+![picOfWorking](PicOfWorkingTest.png)
