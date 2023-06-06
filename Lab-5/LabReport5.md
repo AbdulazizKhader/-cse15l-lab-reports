@@ -50,4 +50,4 @@ public class ErrorScenario {
 }
 ```
 This would pass all the tests:
-![picOfWorking](PicOfWorkingCode.png)
+> ![picOfWorking](PicOfWorkingCode.png)
