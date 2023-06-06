@@ -53,4 +53,4 @@ This would pass all the tests:
 > ![picOfWorking](PicOfWorkingCode.png)
 
 ### Part 2
-The most interesting thing you have learned by a landslide was learning about vim. It felt like you were recreating the matrix using primitive devices, and it makes you look like a professional programmer (my new CS Rizz technique?) 
+The most interesting thing you have learned by a landslide was learning about vim. It felt like you were recreating the matrix using primitive devices, and it makes you look like a professional programmer (my new CS Rizz technique?). The different modes you can go into, and the fact that you don't even need a mouse at this point, makes it a really fun topic to learn about. I personally enjoyed working in visual mode and finding new one-character commands in vim, and will definitely use that more in the future.
