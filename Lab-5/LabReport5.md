@@ -2,7 +2,7 @@
 There isn't much we did to catch up on, but you did have fun doing Kahoot this week! Now onto the bane of all software engineers: the report.
 
 ### Part 1
-**What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?**
+**What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?**  
 Windows
 
 **Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.**
