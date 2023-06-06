@@ -28,8 +28,13 @@ public class ErrorScenario {
     }
 }
 ```
+And the bash script was the following:
+```
+javac -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" *.java
+java -cp ".;lib/junit-4.13.2.jar;lib/hamcrest-core-1.3.jar" org.junit.runner.JUnitCore ErrorScenarioTest
+```
 
-The TA would respond with:
+**The TA would respond with:**
 - Could you change the for loop from ```arr.length - 1``` to ```arr.length```? This will make it go to the end of the loop.
 - Change the code inside the if statement from ```arr[i] = arr[0]``` to ```arr[i] = 0``` since none of the elements are zero.
 
