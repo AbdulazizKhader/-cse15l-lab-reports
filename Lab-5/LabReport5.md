@@ -38,7 +38,7 @@ java -cp ".;lib/junit-4.13.2.jar;lib/hamcrest-core-1.3.jar" org.junit.runner.JUn
 - Could you change the for loop from ```arr.length - 1``` to ```arr.length```? This will make it go to the end of the loop.
 - Change the code inside the if statement from ```arr[i] = arr[0]``` to ```arr[i] = 0``` since none of the elements are zero.
 
-The final product after changing would look like:
+The final product after changing the original code would look like:
 ```
 public class ErrorScenario {
     static void remove(int toRemove, int[] arr){
@@ -54,8 +54,14 @@ public class ErrorScenario {
     }
 }
 ```
+```
+javac -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" *.java
+java -cp ".;lib/junit-4.13.2.jar;lib/hamcrest-core-1.3.jar" org.junit.runner.JUnitCore ErrorScenarioTest
+```
+
 This would pass all the tests:
 > ![picOfWorking](PicOfWorkingCode.png)
+> ![picOfTerminalCode](PicOfTerminalCode.png)
 
 ### Part 2
 The most interesting thing you have learned by a landslide was learning about vim. It felt like you were recreating the matrix using primitive devices, and it makes you look like a professional programmer (my new CS Rizz technique?). The different modes you can go into, and the fact that you don't even need a mouse at this point, makes it a really fun topic to learn about. I personally enjoyed working in visual mode and finding new one-character commands in vim, and will definitely use that more in the future.
