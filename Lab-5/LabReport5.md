@@ -51,3 +51,5 @@ public class ErrorScenario {
 ```
 This would pass all the tests:
 > ![picOfWorking](PicOfWorkingCode.png)
+
+### Part 2
